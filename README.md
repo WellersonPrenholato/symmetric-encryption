@@ -3,6 +3,6 @@ Fernet guarantees that a message encrypted using it cannot be manipulated or rea
 
 ---
 ## References: 
-### [pyca/cryptography](https://cryptography.io/en/latest/)
-### [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
-### [Fernet (symmetric encryption)](https://cryptography.io/en/latest/fernet/)
+- ### [pyca/cryptography](https://cryptography.io/en/latest/)
+- ### [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
+- ### [Fernet (symmetric encryption)](https://cryptography.io/en/latest/fernet/)
